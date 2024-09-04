@@ -19,6 +19,14 @@ Scrapefy is an AI-powered web scraper that allows users to extract, clean easily
 - **Langchain**
 - **Ollama LLM**
 
+## Demo
+
+- Using my local game store, [Trade-N-Games](https://www.tradengames.com/store/pc/home.asp), as an example for the demo.
+
+https://github.com/user-attachments/assets/a449a0ad-53b7-4ef9-915b-2d32d4f4a0eb
+
+- Takes ~1:15 seconds to parse through the content skip from 0:40 - 1:14 to skip the wait
+
 ## Installation
 
 To run Scrapefy locally, follow these steps:
@@ -41,3 +49,4 @@ To run Scrapefy locally, follow these steps:
 5. Run the Streamlit App:
    ```bash
    streamlit run app.py
+
